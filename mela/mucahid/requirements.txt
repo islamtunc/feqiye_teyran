@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+numpy
+flask
+deep-translator
+transformers
+torch
