@@ -1,4 +1,10 @@
-# Bismillahirrahmanirahim
+Bismillahirrahmanirahim
+Elhamdulillahirabbulalemin
+Esselatu vesselamu ala rasulina Muhammedin ve ala alihi ve sahbihi ecmain
+
+
+
+
 Python Chat Assistant with TensorFlow Hub
 
 Bu proje, TensorFlow Hub'dan hazır bir dil modeli ile, verilen bir .txt dosyasındaki bilgileri öğrenip, kullanıcıya asistanlık yapan bir sohbet uygulamasıdır. Model, .txt dosyasındaki içeriklere göre yanıt verir.
@@ -24,3 +30,8 @@ Bu proje, TensorFlow Hub'dan hazır bir dil modeli ile, verilen bir .txt dosyas�
 
 ## Notlar
 - Bu proje temel bir prototiptir. Geliştirmeye açıktır.
+
+
+
+Allahümme sali ala seyidina Muhammedin 
+#Elhamdulillahirabbulalemin
